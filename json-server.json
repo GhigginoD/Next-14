@@ -1,0 +1,42 @@
+{
+  "products": [
+    {
+      "name": "PC",
+      "price": 100
+    },
+    {
+      "name": "Celular",
+      "price": 200
+    },
+    {
+      "id": "71fa",
+      "name": "Televisão",
+      "price": "100"
+    },
+    {
+      "id": "91b1",
+      "name": "luva",
+      "price": "60"
+    },
+    {
+      "id": "e8a3",
+      "name": "cartão",
+      "price": "5"
+    },
+    {
+      "id": "936b",
+      "name": "a",
+      "price": "12"
+    },
+    {
+      "id": "fe68",
+      "name": "b",
+      "price": "10"
+    },
+    {
+      "id": "b54c",
+      "name": "b",
+      "price": "40"
+    }
+  ]
+}
